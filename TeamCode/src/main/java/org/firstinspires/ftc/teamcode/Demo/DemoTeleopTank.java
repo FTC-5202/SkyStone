@@ -57,7 +57,8 @@ import org.firstinspires.ftc.teamcode.K9Classes.HardwareK9;
  */
 
 @TeleOp(name="Demo1", group="Demo")
-//@Disabled
+@Disabled
+
 public class DemoTeleopTank extends LinearOpMode {
 
     /* Declare OpMode members. */

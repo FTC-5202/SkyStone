@@ -9,7 +9,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
  * Created by Hannah on 11/16/2017.
  */
 @TeleOp (name = "BigRovTestMech")
-//@Disabled
+@Disabled
 public class BigRoverMecTestDrive extends BIGRoverTeleOpMethods {
 
     double FR;

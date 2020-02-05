@@ -3,8 +3,10 @@ package org.firstinspires.ftc.teamcode.Rover;
 import com.qualcomm.hardware.bosch.BNO055IMU;
 import com.qualcomm.hardware.bosch.JustLoggingAccelerationIntegrator;
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 
 @Autonomous (name="Crab IMU Test")
+@Disabled
 public class CrabIMU_Test extends UltimumStella_AutoMethods {
 
     @Override

@@ -1,6 +1,6 @@
 package org.firstinspires.ftc.teamcode.TH3O;
 
-import android.support.annotation.Nullable;
+//import android.support.annotation.Nullable;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 import com.qualcomm.robotcore.eventloop.opmode.Disabled;
@@ -20,8 +20,8 @@ import org.firstinspires.ftc.robotcore.external.navigation.VuforiaTrackable;
 import org.firstinspires.ftc.robotcore.external.navigation.VuforiaTrackableDefaultListener;
 import org.firstinspires.ftc.robotcore.external.navigation.VuforiaTrackables;
 
-import static com.sun.tools.javac.util.Constants.format;
-import static org.firstinspires.ftc.robotcore.external.navigation.RelicRecoveryVuMark.LEFT;
+//import static com.sun.tools.javac.util.Constants.format;
+//import static org.firstinspires.ftc.robotcore.external.navigation.RelicRecoveryVuMark.LEFT;
 
 
 @Autonomous(name="Concept: VuMark Id", group ="Concept")
